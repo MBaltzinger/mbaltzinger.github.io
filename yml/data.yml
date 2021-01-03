@@ -1,0 +1,73 @@
+/* #*/ export const PERSON = `
+Work Experience 👔:
+- name: EDF Trading
+  description: Short Term Power Analyst
+  Time: April 2018
+  url: https://www.edftrading.com/
+  picture: /pictures/edf.png
+  color: green
+
+- name: ETH Zurich
+  description: Master Thesis
+  Time: September 2017
+  url: https://ethz.ch/en.html
+  picture: /pictures/eth.png
+
+Publications 📝:
+- name: IEEE General Meeting Power& Energy Society
+  description: A Modular and Efficient Modeling Library for Power Flow Network Steady-State Analysis and Optimization
+  Time: August 2018
+  url: https://ieeexplore.ieee.org/document/8586605
+  picture: /pictures/ieee.png
+  color: red
+
+Educations 📚:
+- name: ETH Zurich
+  description: Master Electrical Engineering and Information Technology
+  Time: March 2018
+  url: https://ethz.ch/en.html
+  picture: /pictures/eth.png
+
+- name: CentraleSupelec
+  description: Information Sciences, Energy and Systems
+  Time: March 2018
+  url: https://ethz.ch/en.html
+  picture: /pictures/cs.png
+  color: green
+
+MOOC 📰:
+- name: edX - ColumbiaX
+  description: Machine Learning
+  Time: December 2020
+  url: https://github.com/salomonelli/best-resume-ever
+  picture: /pictures/edX.png
+
+Scholarship 💰:
+- name: ETH Zurich
+  description: Birkigt Scholarship
+  Time: November 2017
+  url: https://ethz.ch/students/en/studies/financial/scholarships.html
+  picture: /pictures/eth.png
+
+Certifications 📜:
+- name: TOEFL IBT
+  description: 105/120
+  Time: January 2016
+  url: https://www.ets.org/fr/toefl
+  picture: /pictures/toefl.png
+
+- name: SprachDiplom Goethe Institut
+  description: B2
+  Time: September 2011
+  picture: /pictures/goethe.png
+  color: green
+
+Computer Science 💻:
+- name: Professional 
+  Time: Python, VueJS
+  color: red
+
+- name: Beginner
+  Time: Rust, Go
+
+`
